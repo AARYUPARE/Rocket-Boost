@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Rocket Boost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70A70A11-B62E-150D-A673-BE0AE77F62E7}|Assembly-CSharp.csproj|c:\\game engine unity\\world\u0027s best game developer\\rocket boost\\assets\\scripts\\move mother ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A70A11-B62E-150D-A673-BE0AE77F62E7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\move mother ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A70A11-B62E-150D-A673-BE0AE77F62E7}|Assembly-CSharp.csproj|C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Rocket Boost\\assets\\scripts\\crusher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A70A11-B62E-150D-A673-BE0AE77F62E7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\crusher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A70A11-B62E-150D-A673-BE0AE77F62E7}|Assembly-CSharp.csproj|C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Rocket Boost\\assets\\scripts\\crusher initiator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A70A11-B62E-150D-A673-BE0AE77F62E7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\crusher initiator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Crusher.cs",
+              "DocumentMoniker": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Rocket Boost\\Assets\\Scripts\\Crusher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Crusher.cs",
+              "ToolTip": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Rocket Boost\\Assets\\Scripts\\Crusher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Crusher.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:47:24.317Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Move Mother Ship.cs",
+              "DocumentMoniker": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Rocket Boost\\Assets\\Scripts\\Move Mother Ship.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Move Mother Ship.cs",
+              "ToolTip": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Rocket Boost\\Assets\\Scripts\\Move Mother Ship.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Move Mother Ship.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAB0AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:32:54.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Crusher Initiator.cs",
+              "DocumentMoniker": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Rocket Boost\\Assets\\Scripts\\Crusher Initiator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Crusher Initiator.cs",
+              "ToolTip": "C:\\Game Engine Unity\\World\u0027s Best Game Developer\\Rocket Boost\\Assets\\Scripts\\Crusher Initiator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Crusher Initiator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:21:43.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
